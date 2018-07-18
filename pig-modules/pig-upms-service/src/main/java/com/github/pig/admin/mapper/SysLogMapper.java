@@ -25,7 +25,7 @@ import com.github.pig.common.entity.SysLog;
   * 日志表 Mapper 接口
  * </p>
  *
- * @author lengleng
+ * @author gaowh
  * @since 2017-11-20
  */
 public interface SysLogMapper extends BaseMapper<SysLog> {

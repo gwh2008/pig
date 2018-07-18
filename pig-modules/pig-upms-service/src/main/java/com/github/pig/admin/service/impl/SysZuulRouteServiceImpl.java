@@ -36,7 +36,7 @@ import java.util.List;
  * 动态路由配置表 服务实现类
  * </p>
  *
- * @author lengleng
+ * @author gaowh
  * @since 2018-05-15
  */
 @Service

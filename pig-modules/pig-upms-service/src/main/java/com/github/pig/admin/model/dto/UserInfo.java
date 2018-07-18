@@ -23,7 +23,7 @@ import lombok.Data;
 import java.io.Serializable;
 
 /**
- * @author lengleng
+ * @author gaowh
  * @date 2017/11/11
  * <p>
  * commit('SET_ROLES', data)

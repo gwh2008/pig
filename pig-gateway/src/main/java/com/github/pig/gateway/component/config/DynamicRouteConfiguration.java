@@ -26,7 +26,7 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.data.redis.core.RedisTemplate;
 
 /**
- * @author lengleng
+ * @author gaowh
  * @date 2018/5/15
  * 动态路由配置类
  */

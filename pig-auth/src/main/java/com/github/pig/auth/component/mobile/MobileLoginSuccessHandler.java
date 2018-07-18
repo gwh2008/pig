@@ -39,7 +39,7 @@ import java.io.IOException;
 import java.io.PrintWriter;
 
 /**
- * @author lengleng
+ * @author gaowh
  * @date 2018/1/8
  * 手机号登录成功，返回oauth token
  */

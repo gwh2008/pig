@@ -22,7 +22,7 @@ import lombok.Data;
 import java.io.Serializable;
 
 /**
- * @author lengleng
+ * @author gaowh
  * @date 2018/1/15
  * 短信消息模板
  */

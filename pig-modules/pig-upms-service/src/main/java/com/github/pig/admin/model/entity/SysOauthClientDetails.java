@@ -30,7 +30,7 @@ import java.io.Serializable;
  *
  * </p>
  *
- * @author lengleng
+ * @author gaowh
  * @since 2018-05-15
  */
 @TableName("sys_oauth_client_details")

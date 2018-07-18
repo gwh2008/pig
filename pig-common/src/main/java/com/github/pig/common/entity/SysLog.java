@@ -31,7 +31,7 @@ import java.util.Date;
  * 日志表
  * </p>
  *
- * @author lengleng
+ * @author gaowh
  * @since 2017-11-20
  */
 @Data

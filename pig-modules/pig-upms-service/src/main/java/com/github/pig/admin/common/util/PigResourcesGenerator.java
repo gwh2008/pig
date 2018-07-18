@@ -35,7 +35,7 @@ import java.util.List;
 import java.util.Properties;
 
 /**
- * @author lengleng
+ * @author gaowh
  * @date 2017/10/29
  */
 public class PigResourcesGenerator {

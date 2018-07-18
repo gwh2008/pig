@@ -22,7 +22,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 /**
- * @author lengleng
+ * @author gaowh
  * @date 2018/1/27
  * demo controller
  */

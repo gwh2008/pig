@@ -25,7 +25,7 @@ import com.github.pig.admin.model.entity.SysDict;
   * 字典表 Mapper 接口
  * </p>
  *
- * @author lengleng
+ * @author gaowh
  * @since 2017-11-19
  */
 public interface SysDictMapper extends BaseMapper<SysDict> {

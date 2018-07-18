@@ -25,7 +25,7 @@ import org.springframework.security.oauth2.provider.token.store.JwtAccessTokenCo
 import java.util.Map;
 
 /**
- * @author lengleng
+ * @author gaowh
  * @date 2018/4/7
  * token 声明版权
  */

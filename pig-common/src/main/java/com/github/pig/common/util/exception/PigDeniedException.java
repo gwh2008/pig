@@ -18,7 +18,7 @@
 package com.github.pig.common.util.exception;
 
 /**
- * @author lengleng
+ * @author gaowh
  * @date 2017-12-29 17:05:10
  * 403 授权拒绝
  */

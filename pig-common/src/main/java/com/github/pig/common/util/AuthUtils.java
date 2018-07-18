@@ -26,7 +26,7 @@ import javax.servlet.http.HttpServletRequest;
 import java.io.IOException;
 
 /**
- * @author lengleng
+ * @author gaowh
  * @date 2018/5/13
  * 认证授权相关工具类
  */

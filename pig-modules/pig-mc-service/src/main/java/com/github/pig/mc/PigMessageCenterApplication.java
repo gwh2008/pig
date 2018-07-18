@@ -22,7 +22,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 
 /**
- * @author lengleng
+ * @author gaowh
  * @date 2018年01月15日13:24:23
  * 消息中心
  */

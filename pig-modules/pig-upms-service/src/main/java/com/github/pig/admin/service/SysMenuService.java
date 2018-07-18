@@ -30,7 +30,7 @@ import java.util.List;
  * 菜单权限表 服务类
  * </p>
  *
- * @author lengleng
+ * @author gaowh
  * @since 2017-10-29
  */
 public interface SysMenuService extends IService<SysMenu> {

@@ -25,7 +25,7 @@ import com.github.pig.common.entity.SysZuulRoute;
  * 动态路由配置表 Mapper 接口
  * </p>
  *
- * @author lengleng
+ * @author gaowh
  * @since 2018-05-15
  */
 public interface SysZuulRouteMapper extends BaseMapper<SysZuulRoute> {

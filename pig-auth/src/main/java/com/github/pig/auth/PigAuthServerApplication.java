@@ -24,7 +24,7 @@ import org.springframework.cloud.netflix.feign.EnableFeignClients;
 import org.springframework.context.annotation.ComponentScan;
 
 /**
- * @author lengleng
+ * @author gaowh
  *         获取用户信息也是通过这个应用实现
  *         这里既是认证服务器，也是资源服务器
  *         EnableResourceServer

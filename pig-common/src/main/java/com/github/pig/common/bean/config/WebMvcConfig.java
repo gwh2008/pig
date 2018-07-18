@@ -25,7 +25,7 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurerAdapter
 import java.util.List;
 
 /**
- * @author lengleng
+ * @author gaowh
  * @date 2017/12/21
  * mvc配置
  */

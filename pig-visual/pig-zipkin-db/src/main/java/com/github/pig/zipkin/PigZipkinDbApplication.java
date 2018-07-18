@@ -23,7 +23,7 @@ import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 import zipkin.server.EnableZipkinServer;
 
 /**
- * @author lengleng
+ * @author gaowh
  * @date 2018-01-24
  * zipkin mysql 存储实现
  */

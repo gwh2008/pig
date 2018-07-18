@@ -23,7 +23,7 @@ import org.springframework.security.oauth2.config.annotation.web.configuration.E
 import org.springframework.security.oauth2.config.annotation.web.configuration.ResourceServerConfigurerAdapter;
 
 /**
- * @author lengleng
+ * @author gaowh
  * @date 2018年1月31日23:15:08
  * 当前配置 暴露监控信息
  */

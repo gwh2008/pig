@@ -30,7 +30,7 @@ import java.io.Serializable;
  * 角色菜单表
  * </p>
  *
- * @author lengleng
+ * @author gaowh
  * @since 2017-10-29
  */
 @Data

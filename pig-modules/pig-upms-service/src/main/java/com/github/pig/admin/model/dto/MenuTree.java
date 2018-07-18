@@ -21,7 +21,7 @@ import com.github.pig.common.vo.MenuVO;
 import lombok.Data;
 
 /**
- * @author lengleng
+ * @author gaowh
  * @date 2017年11月9日23:33:27
  */
 @Data

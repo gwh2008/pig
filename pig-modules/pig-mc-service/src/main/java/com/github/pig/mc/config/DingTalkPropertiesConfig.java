@@ -22,7 +22,7 @@ import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.context.annotation.Configuration;
 
 /**
- * @author lengleng
+ * @author gaowh
  * @date 2018/4/2
  * 钉钉服务配置
  */

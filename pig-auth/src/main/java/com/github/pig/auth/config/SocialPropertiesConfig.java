@@ -20,7 +20,7 @@ package com.github.pig.auth.config;
 import lombok.Data;
 
 /**
- * @author lengleng
+ * @author gaowh
  * @date 2017/10/28
  * social 登录基础配置
  */

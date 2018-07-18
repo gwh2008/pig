@@ -22,7 +22,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.autoconfigure.security.oauth2.client.EnableOAuth2Sso;
 
 /**
- * @author lengleng
+ * @author gaowh
  * @date 2018年01月27日13:00:09
  * 单点登录客户端
  */

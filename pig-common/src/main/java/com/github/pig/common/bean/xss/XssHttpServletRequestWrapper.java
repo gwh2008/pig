@@ -32,7 +32,7 @@ import java.util.LinkedHashMap;
 import java.util.Map;
 
 /**
- * @author lengleng
+ * @author gaowh
  * @date 2018/5/26
  * https://gitee.com/renrenio/renren-fast
  */

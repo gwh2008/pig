@@ -29,7 +29,7 @@ import org.springframework.security.config.annotation.web.configuration.WebSecur
 import org.springframework.security.config.annotation.web.configurers.ExpressionUrlAuthorizationConfigurer;
 
 /**
- * @author lengleng
+ * @author gaowh
  * @date 2018/3/10
  */
 @Order(SecurityProperties.ACCESS_OVERRIDE_ORDER - 1)

@@ -27,7 +27,7 @@ import org.apache.ibatis.annotations.Param;
   * 用户角色表 Mapper 接口
  * </p>
  *
- * @author lengleng
+ * @author gaowh
  * @since 2017-10-29
  */
 public interface SysUserRoleMapper extends BaseMapper<SysUserRole> {

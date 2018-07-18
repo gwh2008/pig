@@ -22,7 +22,7 @@ import org.springframework.security.core.Authentication;
 import javax.servlet.http.HttpServletRequest;
 
 /**
- * @author lengleng
+ * @author gaowh
  * @date 2017/10/28
  */
 public interface PermissionService {

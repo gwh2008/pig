@@ -32,7 +32,7 @@ import java.io.Serializable;
  * 动态路由配置表
  * </p>
  *
- * @author lengleng
+ * @author gaowh
  * @since 2018-05-15
  */
 @Data

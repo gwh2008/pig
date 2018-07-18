@@ -26,7 +26,7 @@ import org.springframework.web.bind.annotation.PathVariable;
 import java.util.Set;
 
 /**
- * @author lengleng
+ * @author gaowh
  * @date 2017/10/31
  */
 @FeignClient(name = "pig-upms-service", fallback = MenuServiceFallbackImpl.class)

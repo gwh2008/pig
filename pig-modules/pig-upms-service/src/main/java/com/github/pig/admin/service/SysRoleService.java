@@ -31,7 +31,7 @@ import java.util.List;
  * 服务类
  * </p>
  *
- * @author lengleng
+ * @author gaowh
  * @since 2017-10-29
  */
 public interface SysRoleService extends IService<SysRole> {

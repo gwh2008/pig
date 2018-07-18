@@ -33,7 +33,7 @@ import java.util.Date;
  * 字典表
  * </p>
  *
- * @author lengleng
+ * @author gaowh
  * @since 2017-11-19
  */
 @Data

@@ -29,7 +29,7 @@ import org.springframework.stereotype.Component;
 import java.util.Map;
 
 /**
- * @author lengleng
+ * @author gaowh
  * @date 2018年01月25日15:59:00
  * 监听服务状态改变发送请求
  */

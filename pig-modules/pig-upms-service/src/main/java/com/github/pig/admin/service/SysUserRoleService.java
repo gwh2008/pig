@@ -26,7 +26,7 @@ import com.github.pig.admin.model.entity.SysUserRole;
  * 用户角色表 服务类
  * </p>
  *
- * @author lengleng
+ * @author gaowh
  * @since 2017-10-29
  */
 public interface SysUserRoleService extends IService<SysUserRole> {

@@ -34,7 +34,7 @@ import org.springframework.amqp.rabbit.core.RabbitTemplate;
 
 
 /**
- * @author lengleng
+ * @author gaowh
  * @date 2018/4/22
  * 服务下线通知
  */

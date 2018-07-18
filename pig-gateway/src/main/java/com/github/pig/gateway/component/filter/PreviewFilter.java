@@ -46,7 +46,7 @@ import javax.servlet.http.HttpServletRequest;
 import static org.springframework.cloud.netflix.zuul.filters.support.FilterConstants.FORM_BODY_WRAPPER_FILTER_ORDER;
 
 /**
- * @author lengleng
+ * @author gaowh
  * @date 2018年05月10日
  * 演示环境控制
  */

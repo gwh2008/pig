@@ -18,7 +18,7 @@
 package com.github.pig.common.constant;
 
 /**
- * @author lengleng
+ * @author gaowh
  * @date 2017-12-18
  */
 public interface SecurityConstants {

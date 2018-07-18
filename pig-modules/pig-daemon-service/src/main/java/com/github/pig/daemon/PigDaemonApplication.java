@@ -22,7 +22,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 
 /**
- * @author lengleng
+ * @author gaowh
  * @date 2018年02月07日20:35:35
  * 分布式任务调度模块
  */

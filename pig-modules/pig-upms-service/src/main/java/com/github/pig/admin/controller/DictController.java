@@ -40,7 +40,7 @@ import java.util.Map;
  * 字典表 前端控制器
  * </p>
  *
- * @author lengleng
+ * @author gaowh
  * @since 2017-11-19
  */
 @RestController

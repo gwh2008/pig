@@ -30,7 +30,7 @@ import java.util.Base64;
 import java.util.List;
 
 /**
- * @author lengleng
+ * @author gaowh
  * @date 2017/11/20
  * 用户相关工具类
  */

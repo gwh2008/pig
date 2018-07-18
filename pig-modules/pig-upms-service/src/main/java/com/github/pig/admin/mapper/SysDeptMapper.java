@@ -27,7 +27,7 @@ import java.util.List;
  * 部门管理 Mapper 接口
  * </p>
  *
- * @author lengleng
+ * @author gaowh
  * @since 2018-01-20
  */
 public interface SysDeptMapper extends BaseMapper<SysDept> {

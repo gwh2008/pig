@@ -22,7 +22,7 @@ import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.context.annotation.Configuration;
 
 /**
- * @author lengleng
+ * @author gaowh
  * @date 2018年01月14日19:51:08
  * FastDFs参数
  */

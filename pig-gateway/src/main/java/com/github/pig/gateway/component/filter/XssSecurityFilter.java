@@ -31,7 +31,7 @@ import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 
 /**
- * @author lengleng
+ * @author gaowh
  * @date 2018/5/26
  * XSS 过滤
  */

@@ -33,7 +33,7 @@ import org.springframework.security.oauth2.config.annotation.web.configurers.Res
 import org.springframework.security.oauth2.provider.expression.OAuth2WebSecurityExpressionHandler;
 
 /**
- * @author lengleng
+ * @author gaowh
  * @date 2017/10/27
  */
 @Configuration

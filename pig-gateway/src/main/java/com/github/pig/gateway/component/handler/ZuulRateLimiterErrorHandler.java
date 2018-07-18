@@ -24,7 +24,7 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
 /**
- * @author lengleng
+ * @author gaowh
  * @date 2018/2/26
  * 限流降级处理
  */

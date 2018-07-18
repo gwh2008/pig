@@ -21,7 +21,7 @@ import com.github.pig.admin.model.entity.SysRole;
 import lombok.Data;
 
 /**
- * @author lengleng
+ * @author gaowh
  * @date 2018/1/20
  * 角色Dto
  */

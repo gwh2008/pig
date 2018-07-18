@@ -40,7 +40,7 @@ import java.io.IOException;
 import java.util.Arrays;
 
 /**
- * @author lengleng
+ * @author gaowh
  * @date 2018/5/10
  * <p>
  * security.validate.code.enabled 默认 为false，开启需要设置为true

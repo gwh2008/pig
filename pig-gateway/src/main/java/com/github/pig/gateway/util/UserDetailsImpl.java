@@ -31,7 +31,7 @@ import java.util.Collection;
 import java.util.List;
 
 /**
- * @author lengleng
+ * @author gaowh
  * @date 2017/10/29
  */
 public class UserDetailsImpl implements UserDetails {

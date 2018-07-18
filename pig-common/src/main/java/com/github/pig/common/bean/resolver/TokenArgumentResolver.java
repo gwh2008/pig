@@ -35,7 +35,7 @@ import java.util.Arrays;
 import java.util.List;
 
 /**
- * @author lengleng
+ * @author gaowh
  * @date 2017/12/21
  * Token转化UserVo
  */

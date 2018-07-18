@@ -27,7 +27,7 @@ import com.github.pig.common.util.R;
 import com.github.pig.common.vo.UserVO;
 
 /**
- * @author lengleng
+ * @author gaowh
  * @date 2017/10/31
  */
 public interface SysUserService extends IService<SysUser> {

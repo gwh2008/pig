@@ -24,7 +24,7 @@ import org.springframework.context.annotation.ComponentScan;
 import org.springframework.scheduling.annotation.EnableAsync;
 
 /**
- * @author lengleng
+ * @author gaowh
  * @date 2017年10月27日13:59:05
  */
 @EnableAsync

@@ -24,7 +24,7 @@ import org.springframework.cloud.netflix.feign.EnableFeignClients;
 import zipkin.server.EnableZipkinServer;
 
 /**
- * @author lengleng
+ * @author gaowh
  * @date 2017-12-29 13:02:29
  * zipkin 链路追踪
  */

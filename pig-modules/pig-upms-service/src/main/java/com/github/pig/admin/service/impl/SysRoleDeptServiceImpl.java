@@ -28,7 +28,7 @@ import org.springframework.stereotype.Service;
  * 角色与部门对应关系 服务实现类
  * </p>
  *
- * @author lengleng
+ * @author gaowh
  * @since 2018-01-20
  */
 @Service

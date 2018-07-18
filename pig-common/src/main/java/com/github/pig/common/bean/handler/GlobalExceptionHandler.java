@@ -18,7 +18,7 @@
 package com.github.pig.common.bean.handler;
 
 /**
- * @author lengleng
+ * @author gaowh
  * @date 2018/5/24
  */
 
@@ -33,7 +33,7 @@ import org.springframework.web.bind.annotation.RestControllerAdvice;
 /**
  * 全局的的异常拦截器
  *
- * @author lengleng
+ * @author gaowh
  * @date 2018/05/22
  */
 @Slf4j

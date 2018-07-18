@@ -48,7 +48,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * @author lengleng
+ * @author gaowh
  * @date 2017/10/27
  * 认证服务器逻辑实现
  */

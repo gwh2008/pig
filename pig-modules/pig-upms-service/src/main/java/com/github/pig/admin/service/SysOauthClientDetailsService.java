@@ -25,7 +25,7 @@ import com.github.pig.admin.model.entity.SysOauthClientDetails;
  *  服务类
  * </p>
  *
- * @author lengleng
+ * @author gaowh
  * @since 2018-05-15
  */
 public interface SysOauthClientDetailsService extends IService<SysOauthClientDetails> {

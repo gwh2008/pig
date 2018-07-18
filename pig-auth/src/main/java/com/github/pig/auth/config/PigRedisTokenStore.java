@@ -30,7 +30,7 @@ import java.util.*;
 import java.util.concurrent.TimeUnit;
 
 /**
- * @author lengleng
+ * @author gaowh
  * @date 2018/4/13
  * Pipeline is currently not supported for JedisClusterConnection.
  */

@@ -26,7 +26,7 @@ import com.github.pig.admin.model.entity.SysOauthClientDetails;
  *  Mapper 接口
  * </p>
  *
- * @author lengleng
+ * @author gaowh
  * @since 2018-05-15
  */
 public interface SysOauthClientDetailsMapper extends BaseMapper<SysOauthClientDetails> {

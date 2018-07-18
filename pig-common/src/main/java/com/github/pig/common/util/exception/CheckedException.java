@@ -18,7 +18,7 @@
 package com.github.pig.common.util.exception;
 
 /**
- * @author lengleng
+ * @author gaowh
  * @date 😴2017年12月21日20:44:38
  */
 public class CheckedException extends RuntimeException {

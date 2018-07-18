@@ -27,7 +27,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
 /**
- * @author lengleng
+ * @author gaowh
  * @date 2018/4/22
  * 发送钉钉消息逻辑
  */

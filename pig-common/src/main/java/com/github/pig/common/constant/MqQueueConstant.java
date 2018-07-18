@@ -18,7 +18,7 @@
 package com.github.pig.common.constant;
 
 /**
- * @author lengleng
+ * @author gaowh
  * @date 2018/1/15
  * MQ 消息队列
  */
