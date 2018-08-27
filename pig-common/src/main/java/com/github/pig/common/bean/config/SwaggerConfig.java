@@ -55,7 +55,7 @@ public class SwaggerConfig {
                 .title("Pig Swagger API ")
                 .description("https://github.com/gaowenhui/pig/wikis")
                 .termsOfServiceUrl("https://github.com/gaowenhui/pig")
-                .contact(new Contact("冷冷","https://github.com/gaowenhui/pig","286899139@qq.com"))
+                .contact(new Contact("gaowh","https://github.com/gaowenhui/pig","286899139@qq.com"))
                 .version("1.0")
                 .build();
     }
